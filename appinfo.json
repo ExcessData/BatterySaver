@@ -1,0 +1,11 @@
+{
+	"id": "com.excessdata.batterysaver",
+	"version": "1.0.01",
+	"vendor": "ExcessData",
+	"type": "web",
+	"main": "index.html",
+	"title": "Battery Saver",
+	"icon": "icon.png",
+	"noWindow": "true",
+	"theme": "light"
+}
